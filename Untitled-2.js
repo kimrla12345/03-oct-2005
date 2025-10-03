@@ -26,7 +26,7 @@ function mousePressed() {
     
     let imgWidth = huntGif.width;
     let imgHeight = huntGif.height;
-    huntGif.position(width / 2 - imgWidth / 2, height / 2 - imgHeight / 2);
+    huntGif.position(width / 4 - imgWidth / 4, height / 4 - imgHeight / 4);
   }
 }
 
